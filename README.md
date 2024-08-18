@@ -1,5 +1,7 @@
 # User Management
 
+![Alt text](./user-management-img.jpg)
+
 ## Introduction
 "User Management" is a simple application designed to help you efficiently manage user data. It provides features for adding, editing, deleting, and searching users in an easy-to-use interface.
 
